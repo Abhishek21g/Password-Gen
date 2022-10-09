@@ -8,7 +8,6 @@ We create passwords, which might be weak and can easily be gussed, But what if w
 
 We can use this as a extension in many devices and make sure we protect our data and privacy. 
 
-file:///Users/enaguthiabhishek/Desktop/Project/Password%20Generator%20html.html
 
 Here is a screenshot of Password-Gen
 
